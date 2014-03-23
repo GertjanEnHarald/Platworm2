@@ -1,3 +1,6 @@
+/**
+ * Test the class Worm.java
+ */
 
 package worms.model;
 
