@@ -4,6 +4,9 @@
 
 package worms.model;
 
+/**
+ * Nu eens een test van mijn laptop
+ */
 import static org.junit.Assert.assertEquals;
 
 
