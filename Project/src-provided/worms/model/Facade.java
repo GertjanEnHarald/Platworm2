@@ -1,6 +1,3 @@
-//Can you see this modification?
-//If you can, the git-thing works.
-
 package worms.model;
 
 public class Facade implements IFacade {
