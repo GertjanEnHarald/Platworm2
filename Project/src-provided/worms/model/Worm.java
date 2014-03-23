@@ -33,6 +33,7 @@ import be.kuleuven.cs.som.annotate.*;
  * lollies
  * @author User 67
  *waarom werkt dit ook nooit?
+ *en nu?
  */
 
 public class Worm {
