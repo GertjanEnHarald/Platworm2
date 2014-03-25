@@ -2,6 +2,9 @@
  * Test the class Worm.java
  */
 
+/**
+ * push test als illustratie voor Gertjan
+ */
 package worms.model;
 
 
